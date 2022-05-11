@@ -1,8 +1,6 @@
 # Markdown
 Markdown Grammer
 ```
-public static void main(String[] args){  
-  system.out.println("Write down sth"); 
-}     
+Try to write markdown on Typora and upload to Github   
 ```
 [whiteling](https:://github.com/whiteling)
